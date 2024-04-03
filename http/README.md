@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=XaTwnKLQi4A
 - GraphQL
 - WebSockets
 - RPC (gRPC, tRPC)
+
+## HTTP
