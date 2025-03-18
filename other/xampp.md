@@ -13,7 +13,7 @@ https://www.apachefriends.org/ru/index.html
 - если логи в контрольной панели синие, а не красные, то всё хорошо
 
 ## Настройка контрольной панели
-`xampp\xampp-control.exe`
+`xampp\xampp-control.exe` Запускать под администратором.
 
 - стартуем апач (если выдаст ошибку, то скорей всего нужно обновить DLL у винды)
   - support.microsoft.com/ru-ru/help/2977003
